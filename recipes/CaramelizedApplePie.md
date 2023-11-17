@@ -2,13 +2,13 @@
 # Caramelized Apple Pie
 ## Ingredients: 
 * **3 pounds** Pink Lady apples (6 to 7 medium) or other baking apples, such as honeycrisp or Granny Smith, peeled, cored and cut into 1/2-inch wedges
-* **3/4 cup**/150 grams granulated sugar
-* **3 tablespoons** unsalted butter, cut into pieces
-* **1/2 teaspoon** Diamond Crystal kosher salt or 1/4 teaspoon Morton kosher salt
-* **2 recipes** [Flaky Pie Crust](https://cooking.nytimes.com/recipes/1024800-flaky-pie-crust) chilled
+* **3/4 cup (150 grams)** granulated sugar
+* **3 TBSP** unsalted butter, cut into pieces
+* **1/2 tsp** Diamond Crystal kosher salt or 1/4 teaspoon Morton kosher salt
+* **2 recipes** [Flaky Pie Crust](FlakyPieCrust.md) chilled
 * **All-purpose flour**, for rolling dough
-* **1 tablespoon** cornstarch
-* **1 tablespoon** apple cider vinegar
+* **1 TBSP** cornstarch
+* **1 TBSP** apple cider vinegar
 * **1 large egg**, beaten
 * **Demerara sugar**, for topping
 * **Vanilla ice cream**, for serving
