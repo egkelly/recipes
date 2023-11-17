@@ -1,3 +1,4 @@
 # Recipes
-* [Caramelized Apple Pie](recipes/CaramelizedApplePie.md)
-* [Flaky Pie Crust](recipes/FlakyPieCrust.md)
+## Baking
+* [Caramelized Apple Pie](recipes/baking/CaramelizedApplePie.md)
+* [Flaky Pie Crust](recipes/baking/FlakyPieCrust.md)
