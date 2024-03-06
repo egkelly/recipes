@@ -1,5 +1,6 @@
 # Recipes
 ## Baking
+* [Apple Cake](recipes/baking/AppleCake.md)
 * [Buttermilk Sugar Biscuits](recipes/baking/SugarButtermilkBiscuits.md)
 * [Caramelized Apple Pie](recipes/baking/CaramelizedApplePie.md)
 * [Cinnamon Rolls](recipes/baking/CinnamonRolls.md)
