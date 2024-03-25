@@ -1,6 +1,13 @@
 # Sourdough Recipe
 This recipe is adapted from https://www.theperfectloaf.com/best-sourdough-recipe/
 
+## Starter
+* 60 g flour
+* 30 g water
+
+Mix into existing starter, and let rise until doubled
+
+
 ## Process
 ### Levain
 * 30g ripe starter
@@ -8,7 +15,7 @@ This recipe is adapted from https://www.theperfectloaf.com/best-sourdough-recipe
 * 30g bread flour
 * 60g water
 
-Mix and let sit overnight (start at ~10pm)
+Mix and let sit in refrigerator overnight (start at ~10pm). Remove in the morning at let sit out until bubbly, at least 4-5 hours. If you don't want to do this overnight, mix the levain when you wake up and let sit until bubbly, for at least 4-5 hours.
 
 ### Autolyse Dough
 * 822g bread flour
